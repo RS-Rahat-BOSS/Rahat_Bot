@@ -22,9 +22,9 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰`" alt="">
 </p>
 
-# 🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰 - By Sheikh Tamim
+# 🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰 - By Rahat Islam
 
-A customized and powerful multi-purpose chatbot framework for Facebook Messenger, based on the original **GoatBot V2** by NTKhang. This version is tailored and improved by **Sheikh Tamim** with additional integrations, command structure enhancements, and admin tools.
+A customized and powerful multi-purpose chatbot framework for Facebook Messenger, based on the original **GoatBot V2** by NTKhang. This version is tailored and improved by **Rahat islam** with additional integrations, command structure enhancements, and admin tools.
 
 > ⚠️ This is a modified version. See License section below for usage rights.
 
@@ -75,8 +75,8 @@ A customized and powerful multi-purpose chatbot framework for Facebook Messenger
 
 ## 📝 **Tutorial**
 Tutorial has been uploaded on YouTube
-- For mobile phone: https://www.youtube.com/watch?v=grVeZ76HlgA
-- For vps/windows: https://www.youtube.com/watch?v=uCbSYNQNEwY
+- For mobile phone:
+- For vps/windows:
   
 Summary instructions:
 - See [here](https://github.com/ntkhang03/Goat-Bot-V2/blob/main/STEP_INSTALL.md)

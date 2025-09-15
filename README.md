@@ -1,5 +1,41 @@
-<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰`" alt="">
+</p>
+    
+<a><img       
+src='https://i.imgur.com/LyHic3i.gif'/></a>
+###  🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰
+❖ ***`বট রান দিতে চাইলে ফেসবুকে যোগাযোগ করো 
+❖👇নিচে আইডির লিঙ্ক আছে👇❖`** ❖
+
+----------
+## Facebook ID:👉 <a href="https://www.facebook.com/rahat.islam.530399">Link</a>
+-------
+## কীভাবে বানাবো:👉 <a href="https://vm.tiktok.com/ZMAkVToUv/">ফুল ভিডিও</a>
+-------
+
+<img src='https://i.imgur.com/fXVNrCK.jpeg'/>
+
+-------
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰`" alt="">
+</p>
+
+# 🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰 - By Sheikh Tamim
+
+A customized and powerful multi-purpose chatbot framework for Facebook Messenger, based on the original **GoatBot V2** by NTKhang. This version is tailored and improved by **Sheikh Tamim** with additional integrations, command structure enhancements, and admin tools.
+
+> ⚠️ This is a modified version. See License section below for usage rights.
+
+---
+
+
+
+
+
+
+
 
 <p align="center">
 	<a href="https://nodejs.org/dist/v16.20.0">
